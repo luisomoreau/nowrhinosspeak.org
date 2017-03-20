@@ -1,1 +1,1 @@
-web: node node_modules/gulp/bin/gulp gulp -p 3000
+web: node node_modules/gulp/bin/gulp dev -p 3000
