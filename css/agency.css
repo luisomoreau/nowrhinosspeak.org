@@ -291,16 +291,32 @@ section h3.section-subheading {
   text-transform: none;
   font-style: italic;
   font-weight: 400;
-  margin-bottom: 75px;
+  margin-bottom: 50px;
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 100px 0;
   }
 }
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+}
+section#services {
+  background-image: url('../img/about/rhino3-laurent.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  color: white;
+}
+section#services p {
+  text-align: center;
+  color: white;
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
@@ -555,11 +571,15 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
+  background-image: url('../img/about/rhino1.jpg');
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 section#contact .section-heading {
+  color: white;
+}
+section#contact .section-subheading {
   color: white;
 }
 section#contact .form-group {
