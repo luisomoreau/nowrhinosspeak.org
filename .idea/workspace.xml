@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/about-rhino.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/about-veto.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -31,11 +29,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="358" column="37" selection-start-line="358" selection-start-column="37" selection-end-line="358" selection-end-column="37" />
+            <state relative-caret-position="180">
+              <caret line="394" column="38" selection-start-line="394" selection-start-column="38" selection-end-line="394" selection-end-column="38" />
               <folding>
-                <marker date="1490791635000" expanded="true" signature="1380:1521" ph="..." />
-                <marker date="1490791635000" expanded="true" signature="1600:1741" ph="..." />
+                <marker date="1490793145000" expanded="true" signature="1380:1521" ph="..." />
+                <marker date="1490793145000" expanded="true" signature="1600:1741" ph="..." />
               </folding>
             </state>
           </provider>
@@ -406,7 +404,7 @@
       <workItem from="1490002220739" duration="9561000" />
       <workItem from="1490262080558" duration="8606000" />
       <workItem from="1490607063678" duration="18384000" />
-      <workItem from="1490771922150" duration="11102000" />
+      <workItem from="1490771922150" duration="12353000" />
     </task>
     <task id="LOCAL-00001" summary="added &quot;In the press section&quot;">
       <created>1490287656959</created>
@@ -419,7 +417,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47653000" />
+    <option name="totallyTimeSpent" value="48904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-885" width="1920" height="1080" extended-state="0" />
@@ -431,7 +429,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4128713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4128713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -760,11 +758,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="358" column="37" selection-start-line="358" selection-start-column="37" selection-end-line="358" selection-end-column="37" />
+        <state relative-caret-position="180">
+          <caret line="394" column="38" selection-start-line="394" selection-start-column="38" selection-end-line="394" selection-end-column="38" />
           <folding>
-            <marker date="1490791635000" expanded="true" signature="1380:1521" ph="..." />
-            <marker date="1490791635000" expanded="true" signature="1600:1741" ph="..." />
+            <marker date="1490793145000" expanded="true" signature="1380:1521" ph="..." />
+            <marker date="1490793145000" expanded="true" signature="1600:1741" ph="..." />
           </folding>
         </state>
       </provider>
