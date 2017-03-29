@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="">
+    <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="added &quot;added tracker and film sections&quot;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/td1205p-smash.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/tracker.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -29,13 +31,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="447" column="12" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="12" />
+            <state relative-caret-position="360">
+              <caret line="336" column="18" selection-start-line="332" selection-start-column="7" selection-end-line="336" selection-end-column="18" />
               <folding>
-                <marker date="1490806840000" expanded="true" signature="1380:1521" ph="..." />
-                <marker date="1490806840000" expanded="true" signature="1600:1741" ph="..." />
+                <marker date="1490812309000" expanded="true" signature="1380:1521" ph="..." />
+                <marker date="1490812309000" expanded="true" signature="1600:1741" ph="..." />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="td1205p-smash.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/about/td1205p-smash.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -57,16 +66,6 @@
         <entry file="file://$PROJECT_DIR$/img/logos/irf_logo_4c.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agency.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -157,10 +156,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-885" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -318,8 +315,8 @@
       <recent name="$PROJECT_DIR$/img/logos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img/about" />
+      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img/team" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img" />
@@ -404,7 +401,7 @@
       <workItem from="1490002220739" duration="9561000" />
       <workItem from="1490262080558" duration="8606000" />
       <workItem from="1490607063678" duration="18384000" />
-      <workItem from="1490771922150" duration="17823000" />
+      <workItem from="1490771922150" duration="20608000" />
     </task>
     <task id="LOCAL-00001" summary="added &quot;In the press section&quot;">
       <created>1490287656959</created>
@@ -434,23 +431,30 @@
       <option name="project" value="LOCAL" />
       <updated>1490797521229</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added &quot;added tracker and film sections&quot;">
+      <created>1490806922232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1490806922232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54374000" />
+    <option name="totallyTimeSpent" value="57159000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-885" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10742496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16203336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13564357" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18767123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -496,21 +500,14 @@
     <MESSAGE value="added &quot;In the press section&quot;" />
     <MESSAGE value="added &quot;changed zoo logo&quot;" />
     <MESSAGE value="added &quot;changed menu&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added &quot;changed menu&quot;" />
+    <MESSAGE value="added &quot;added tracker and film sections&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added &quot;added tracker and film sections&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/team/louis.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -797,13 +794,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/about/td1205p-smash.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="447" column="12" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="12" />
+        <state relative-caret-position="360">
+          <caret line="336" column="18" selection-start-line="332" selection-start-column="7" selection-end-line="336" selection-end-column="18" />
           <folding>
-            <marker date="1490806840000" expanded="true" signature="1380:1521" ph="..." />
-            <marker date="1490806840000" expanded="true" signature="1600:1741" ph="..." />
+            <marker date="1490812309000" expanded="true" signature="1380:1521" ph="..." />
+            <marker date="1490812309000" expanded="true" signature="1600:1741" ph="..." />
           </folding>
         </state>
       </provider>
