@@ -21,6 +21,7 @@ $(function() {
             }
             $.ajax({
                 url: "https://mailgun.nowrhinosspeak.com/submit",
+                //url: "http://0.0.0.0:5000/submit",
                 type: "POST",
                 data: {
                     name: name,
