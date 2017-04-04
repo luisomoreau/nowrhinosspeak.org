@@ -20,7 +20,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://mailgun.nowrhinosspeak.com/submit",
+                url: "https://mailgun.nowrhinosspeak.com/submit",
                 type: "POST",
                 data: {
                     name: name,
