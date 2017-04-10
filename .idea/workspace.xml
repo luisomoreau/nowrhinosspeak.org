@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="">
+    <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="added real logo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/NowRhinosSpeak-white.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="$PROJECT_DIR$/js/contact_me.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.min.css" afterPath="$PROJECT_DIR$/css/agency.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
     </list>
     <ignored path="nowrhinosspeak.org.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,21 +33,31 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="748" column="106" selection-start-line="748" selection-start-column="106" selection-end-line="748" selection-end-column="106" />
+            <state relative-caret-position="285">
+              <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
               <folding>
-                <marker date="1491312126000" expanded="true" signature="1382:1523" ph="..." />
-                <marker date="1491312126000" expanded="true" signature="1602:1743" ph="..." />
+                <marker date="1491826253000" expanded="true" signature="1382:1523" ph="..." />
+                <marker date="1491826253000" expanded="true" signature="1602:1743" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agency.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/agency.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="810">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
               <folding>
                 <marker date="1491324711000" expanded="true" signature="1544:1551" ph="×" />
                 <marker date="1491324711000" expanded="true" signature="2222:2229" ph="×" />
@@ -62,22 +76,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="84" column="6" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="474">
+              <caret line="257" column="18" selection-start-line="257" selection-start-column="18" selection-end-line="257" selection-end-column="18" />
+              <folding>
+                <marker date="1491826322000" expanded="true" signature="683:701" ph="{...}" />
+                <marker date="1491826322000" expanded="true" signature="5419:5437" ph="{...}" />
+                <marker date="1491826322000" expanded="true" signature="5967:6002" ph="{...}" />
+                <marker date="1491826322000" expanded="true" signature="14394:14497" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,6 +121,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/less/agency.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,15 +156,15 @@
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/scss/agency.scss" />
-        <option value="$PROJECT_DIR$/less/agency.less" />
         <option value="$PROJECT_DIR$/mail/contact_me.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/contact_me.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/less/agency.less" />
       </list>
     </option>
   </component>
@@ -237,7 +256,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,6 +344,7 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img/team" />
@@ -354,7 +434,7 @@
       <workItem from="1490883159502" duration="268000" />
       <workItem from="1490884290814" duration="36000" />
       <workItem from="1490887735242" duration="608000" />
-      <workItem from="1491208057528" duration="24885000" />
+      <workItem from="1491208057528" duration="26953000" />
     </task>
     <task id="LOCAL-00001" summary="added &quot;In the press section&quot;">
       <created>1490287656959</created>
@@ -594,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491321096831</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="changed https for mailgun service">
+      <created>1491324723654</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1491324723654</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84063000" />
+    <option name="totallyTimeSpent" value="86131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-885" width="1920" height="1080" extended-state="0" />
@@ -675,7 +762,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="tried mail" />
     <MESSAGE value="changed https for mailgun service" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed https for mailgun service" />
+    <MESSAGE value="added real logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="added real logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,17 +859,6 @@
     <entry file="file://$PROJECT_DIR$/img/logos/irf_logo_4c.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
-          <folding>
-            <marker date="1491314479000" expanded="true" signature="683:701" ph="{...}" />
-            <marker date="1491314479000" expanded="true" signature="14394:14497" ph="{...}" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/header-bg.jpg">
@@ -889,22 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/agency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -977,17 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="748" column="106" selection-start-line="748" selection-start-column="106" selection-end-line="748" selection-end-column="106" />
-          <folding>
-            <marker date="1491312126000" expanded="true" signature="1382:1523" ph="..." />
-            <marker date="1491312126000" expanded="true" signature="1602:1743" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1006,12 +1056,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="810">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
           <folding>
             <marker date="1491324711000" expanded="true" signature="1544:1551" ph="×" />
             <marker date="1491324711000" expanded="true" signature="2222:2229" ph="×" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="257" column="18" selection-start-line="257" selection-start-column="18" selection-end-line="257" selection-end-column="18" />
+          <folding>
+            <marker date="1491826322000" expanded="true" signature="683:701" ph="{...}" />
+            <marker date="1491826322000" expanded="true" signature="5419:5437" ph="{...}" />
+            <marker date="1491826322000" expanded="true" signature="5967:6002" ph="{...}" />
+            <marker date="1491826322000" expanded="true" signature="14394:14497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+          <folding>
+            <marker date="1491826253000" expanded="true" signature="1382:1523" ph="..." />
+            <marker date="1491826253000" expanded="true" signature="1602:1743" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/agency.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
