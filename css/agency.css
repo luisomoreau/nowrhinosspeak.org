@@ -199,6 +199,9 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #16a745;
 }
+.navbar-custom .navbar-logo {
+  height: 30px;
+}
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
@@ -217,6 +220,10 @@ fieldset[disabled] .btn-xl.active {
   .navbar-custom .navbar-nav > .active > a {
     border-radius: 3px;
   }
+  .navbar-custom .navbar-logo {
+    height: 70px;
+    margin-top: -10px;
+  }
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
@@ -225,6 +232,10 @@ fieldset[disabled] .btn-xl.active {
   }
   .navbar-custom.affix .navbar-brand {
     font-size: 1.5em;
+  }
+  .navbar-custom.affix .navbar-logo {
+    height: 45px;
+    margin-top: -10px;
   }
 }
 header {

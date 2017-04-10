@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="added favicon">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-header-rectangle.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.min.css" afterPath="$PROJECT_DIR$/css/agency.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
     </list>
     <ignored path="nowrhinosspeak.org.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="315">
+              <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
               <folding>
-                <marker date="1491832094000" expanded="true" signature="1455:1596" ph="..." />
-                <marker date="1491832094000" expanded="true" signature="1675:1816" ph="..." />
+                <marker date="1491835077000" expanded="true" signature="1455:1596" ph="..." />
+                <marker date="1491835077000" expanded="true" signature="1675:1816" ph="..." />
               </folding>
             </state>
           </provider>
@@ -77,12 +80,12 @@
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="474">
-              <caret line="257" column="18" selection-start-line="257" selection-start-column="18" selection-end-line="257" selection-end-column="18" />
+              <caret line="274" column="1" selection-start-line="274" selection-start-column="1" selection-end-line="274" selection-end-column="1" />
               <folding>
-                <marker date="1491826322000" expanded="true" signature="683:701" ph="{...}" />
-                <marker date="1491826322000" expanded="true" signature="5419:5437" ph="{...}" />
-                <marker date="1491826322000" expanded="true" signature="5967:6002" ph="{...}" />
-                <marker date="1491826322000" expanded="true" signature="14394:14497" ph="{...}" />
+                <marker date="1491835566000" expanded="true" signature="683:701" ph="{...}" />
+                <marker date="1491835566000" expanded="true" signature="3597:3789" ph="{...}" />
+                <marker date="1491835566000" expanded="true" signature="6175:6210" ph="{...}" />
+                <marker date="1491835566000" expanded="true" signature="14602:14705" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="194" column="32" selection-start-line="194" selection-start-column="32" selection-end-line="194" selection-end-column="32" />
+            <state relative-caret-position="510">
+              <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -160,8 +163,8 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/contact_me.js" />
-        <option value="$PROJECT_DIR$/less/agency.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/less/agency.less" />
       </list>
     </option>
   </component>
@@ -334,9 +337,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
-      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img/about" />
       <recent name="$PROJECT_DIR$/img/team" />
     </key>
@@ -431,7 +434,7 @@
       <workItem from="1490883159502" duration="268000" />
       <workItem from="1490884290814" duration="36000" />
       <workItem from="1490887735242" duration="608000" />
-      <workItem from="1491208057528" duration="27857000" />
+      <workItem from="1491208057528" duration="30320000" />
     </task>
     <task id="LOCAL-00001" summary="added &quot;In the press section&quot;">
       <created>1490287656959</created>
@@ -685,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491826436994</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="added favicon">
+      <created>1491833390935</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1491833390936</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87035000" />
+    <option name="totallyTimeSpent" value="89498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-885" width="1920" height="1080" extended-state="0" />
@@ -767,7 +777,8 @@
     <MESSAGE value="tried mail" />
     <MESSAGE value="changed https for mailgun service" />
     <MESSAGE value="added real logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="added real logo" />
+    <MESSAGE value="added favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="added favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1080,32 +1091,32 @@
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
-          <caret line="257" column="18" selection-start-line="257" selection-start-column="18" selection-end-line="257" selection-end-column="18" />
+          <caret line="274" column="1" selection-start-line="274" selection-start-column="1" selection-end-line="274" selection-end-column="1" />
           <folding>
-            <marker date="1491826322000" expanded="true" signature="683:701" ph="{...}" />
-            <marker date="1491826322000" expanded="true" signature="5419:5437" ph="{...}" />
-            <marker date="1491826322000" expanded="true" signature="5967:6002" ph="{...}" />
-            <marker date="1491826322000" expanded="true" signature="14394:14497" ph="{...}" />
+            <marker date="1491835566000" expanded="true" signature="683:701" ph="{...}" />
+            <marker date="1491835566000" expanded="true" signature="3597:3789" ph="{...}" />
+            <marker date="1491835566000" expanded="true" signature="6175:6210" ph="{...}" />
+            <marker date="1491835566000" expanded="true" signature="14602:14705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <marker date="1491835077000" expanded="true" signature="1455:1596" ph="..." />
+            <marker date="1491835077000" expanded="true" signature="1675:1816" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="194" column="32" selection-start-line="194" selection-start-column="32" selection-end-line="194" selection-end-column="32" />
+        <state relative-caret-position="510">
+          <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <marker date="1491832094000" expanded="true" signature="1455:1596" ph="..." />
-            <marker date="1491832094000" expanded="true" signature="1675:1816" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
