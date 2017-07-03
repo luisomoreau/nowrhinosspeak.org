@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c72463e-5cd9-4e2d-9dfd-fcfc0e22a318" name="Default" comment="updated contact bg image as coverage size">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/logo-xerius.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-xerius.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-xerius.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="nowrhinosspeak.org.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,20 +27,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8970">
-              <caret line="598" column="61" selection-start-line="598" selection-start-column="61" selection-end-line="598" selection-end-column="61" />
+            <state relative-caret-position="341">
+              <caret line="569" column="59" selection-start-line="569" selection-start-column="59" selection-end-line="569" selection-end-column="59" />
               <folding>
-                <marker date="1493043609000" expanded="true" signature="1455:1596" ph="..." />
-                <marker date="1493043609000" expanded="true" signature="1675:1816" ph="..." />
+                <marker date="1499069050000" expanded="true" signature="1455:1596" ph="..." />
+                <marker date="1499069050000" expanded="true" signature="1675:1816" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="logo-save-the-rhino.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/logos/logo-save-the-rhino.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo-sigfox-foundation.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/logos/logo-sigfox-foundation.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laurent.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/team/laurent.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laurent-baheux.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/team/laurent-baheux.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
@@ -156,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,6 +274,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="team" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nowrhinosspeak.org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="logos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -265,7 +312,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,17 +325,17 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/logos" />
+      <recent name="$PROJECT_DIR$/img/logos/logo-xerius.jpg" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/portfolio" />
+      <recent name="$PROJECT_DIR$/img/about" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/logos" />
-      <recent name="$PROJECT_DIR$/img/team" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/logos" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/img/portfolio" />
-      <recent name="$PROJECT_DIR$/img/about" />
       <recent name="$PROJECT_DIR$/img/team" />
     </key>
   </component>
@@ -384,7 +430,9 @@
       <workItem from="1491903314353" duration="799000" />
       <workItem from="1493027257360" duration="10673000" />
       <workItem from="1493803617062" duration="72000" />
-      <workItem from="1496308040540" duration="223000" />
+      <workItem from="1496308040540" duration="1402000" />
+      <workItem from="1496665416108" duration="933000" />
+      <workItem from="1499067481741" duration="388000" />
     </task>
     <task id="LOCAL-00001" summary="added &quot;In the press section&quot;">
       <created>1490287656959</created>
@@ -663,11 +711,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106008000" />
+    <option name="totallyTimeSpent" value="108508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-554" width="1920" height="1080" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10689837" sideWeight="0.70149255" order="0" side_tool="false" content_ui="combo" />
@@ -675,7 +723,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27029702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26930693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10689837" sideWeight="0.29850745" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -752,17 +800,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/team/cyrielle.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/team/laurent-baheux.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/roundicons-free.png" />
     <entry file="file://$PROJECT_DIR$/img/portfolio/roundicons.png" />
     <entry file="file://$PROJECT_DIR$/img/team/1.jpg">
       <provider selected="true" editor-type-id="images">
@@ -832,11 +869,6 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio/golden-preview.png" />
     <entry file="file://$PROJECT_DIR$/img/portfolio/escape-preview.png" />
     <entry file="file://$PROJECT_DIR$/img/portfolio/escape.png" />
-    <entry file="file://$PROJECT_DIR$/img/logos/logo-sigfox-foundation.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/logos/Sigfox_Foundation_Logo_W.png" />
     <entry file="file://$PROJECT_DIR$/img/portfolio/dreams.png" />
     <entry file="file://$PROJECT_DIR$/img/portfolio/iot-do.jpg" />
@@ -948,17 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8970">
-          <caret line="598" column="61" selection-start-line="598" selection-start-column="61" selection-end-line="598" selection-end-column="61" />
-          <folding>
-            <marker date="1493043609000" expanded="true" signature="1455:1596" ph="..." />
-            <marker date="1493043609000" expanded="true" signature="1675:1816" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -983,6 +1004,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/team/laurent.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/team/laurent-baheux.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -991,6 +1022,27 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logos/logo-save-the-rhino.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logos/logo-sigfox-foundation.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="569" column="59" selection-start-line="569" selection-start-column="59" selection-end-line="569" selection-end-column="59" />
+          <folding>
+            <marker date="1499069050000" expanded="true" signature="1455:1596" ph="..." />
+            <marker date="1499069050000" expanded="true" signature="1675:1816" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
